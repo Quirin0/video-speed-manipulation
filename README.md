@@ -5,3 +5,7 @@
 - Abrir o inspecionar elemento (F12)
 - Ir na barra Console
 - Colar o script e apertar Enter
+
+``` var vid = document.querySelector("video"); ```
+
+``` vid.playbackRate = 7; ```
